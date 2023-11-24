@@ -1,0 +1,29 @@
+
+ Librarian Jane Smith
+    "entity": "librarian",
+    "firstName": "Jane",
+    "lastName": "Smith",
+     "passport": "906362961"
+
+  Student David Fox
+    "firstName": "David",
+    "lastName": "Fox",
+    "height": "170",
+    "weight": "60",
+    "stCard": "KB33724028",
+    "passport": "307572920"
+
+ Software developer Olivia Fly
+    "entity": "software developer",
+    "firstName": "Olivia",
+    "lastName": "Fly",
+    "passport": "907503710"
+
+  Student Harry Donald
+    "firstName": "Harry",
+    "lastName": "Donald",
+    "height": "192",
+    "weight": "82",
+    "stCard": "KB06384028",
+    "passport": "017562961"
+

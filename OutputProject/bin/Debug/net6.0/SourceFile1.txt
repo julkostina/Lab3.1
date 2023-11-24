@@ -1,0 +1,10 @@
+  Student Harry Donald
+{
+    "entity": "student",
+    "firstName": "Harry",
+    "lastName": "Donald",
+    "height": "192",
+    "weight": "82",
+    "stCard": "KB06384028"
+ +   "passport": "017562961"
+   }   }
